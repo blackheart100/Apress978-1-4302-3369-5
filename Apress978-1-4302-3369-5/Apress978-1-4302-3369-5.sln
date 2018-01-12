@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{796CC973-7360-461E-A3B7-8624414AA248}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\heth\Downloads\Apress.Pro.WCF.4.Practical.Microsoft.SOA.Implementation.pdf = C:\Users\heth\Downloads\Apress.Pro.WCF.4.Practical.Microsoft.SOA.Implementation.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
